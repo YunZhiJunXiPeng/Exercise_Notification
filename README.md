@@ -110,5 +110,5 @@ UNUserNotificationCenter *center = [UNUserNotificationCenter currentNotification
 }];```
 
 ##### 效果展示
-[](http://upload-images.jianshu.io/upload_images/1523603-e4bf72d71b0b600d.gif?imageMogr2/auto-orient/strip)
+
 ![](http://upload-images.jianshu.io/upload_images/1523603-e4bf72d71b0b600d.gif?imageMogr2/auto-orient/strip)
